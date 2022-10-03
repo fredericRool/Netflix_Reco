@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-yo3o5k ===
+
+API key:
+
+
+API secret:
+
+
+Bootstrap server:
+
